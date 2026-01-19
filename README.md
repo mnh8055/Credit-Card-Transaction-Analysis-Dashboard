@@ -3,6 +3,10 @@
 ## Project Overview
 This project analyzes credit card transaction data to understand revenue performance, transaction behavior, card usage patterns, and customer acquisition costs. The Power BI dashboard provides interactive insights to support strategic decision-making in the banking and financial services domain.
 
+## Datasets used
+-<a href="https://github.com/mnh8055/Credit-Card-Transaction-Analysis-Dashboard/blob/main/credit_card.csv">Dataset 1</a></n>
+-<a href="https://github.com/mnh8055/Credit-Card-Transaction-Analysis-Dashboard/blob/main/customer.csv">Dataset 1</a></n>
+
 ## Key KPIs
 - Total Revenue: 55.24M  
 - Total Transaction Amount: 44M  
@@ -14,7 +18,10 @@ This project analyzes credit card transaction data to understand revenue perform
 - Created data models and calculated KPIs using DAX  
 - Designed interactive Power BI dashboards with slicers and filters  
 - Analyzed revenue trends across quarters, card categories, and customer segments  
-- Identified key transaction and spending patterns  
+- Identified key transaction and spending patterns
+
+  ## Dashboard Preview
+![Credit Card Transaction Dashboard](https://github.com/mnh8055/Credit-Card-Transaction-Analysis-Dashboard/blob/main/Credit%20Card%20Transaction%20Analysis%20Dashboard.PNG)
 
 ## Project Insights
 - Q3 generated the highest revenue and transaction volume, indicating peak customer activity.
@@ -42,5 +49,4 @@ This dashboard provides a detailed view of credit card transaction performance a
 - Excel / CSV  
 - GitHub  
 
-## Dashboard Preview
-![Credit Card Transaction Dashboard](https://github.com/mnh8055/Credit-Card-Transaction-Analysis-Dashboard/blob/main/Credit%20Card%20Transaction%20Analysis%20Dashboard.PNG)
+
