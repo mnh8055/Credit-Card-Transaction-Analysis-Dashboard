@@ -7,6 +7,18 @@ This project analyzes credit card transaction data to understand revenue perform
 -<a href="https://github.com/mnh8055/Credit-Card-Transaction-Analysis-Dashboard/blob/main/credit_card.csv">Dataset 1</a></n>
 -<a href="https://github.com/mnh8055/Credit-Card-Transaction-Analysis-Dashboard/blob/main/customer.csv">Dataset 1</a></n>
 
+## Questions (KPIs)
+
+- What is the total revenue, transaction amount, and interest earned across all customers?
+- How does revenue and transaction volume vary across different quarters?
+- Which card category generates the highest revenue and interest?
+- Which transaction method (Swipe, Chip, Online) contributes the most revenue?
+- Which expense types drive the highest spending?
+- Which customer job categories contribute the most revenue?
+- How does education level impact customer spending behavior?
+- What is the customer acquisition cost across different card categories?
+- Which customer segments and card types are the most profitable?
+  
 ## Key KPIs
 - Total Revenue: 55.24M  
 - Total Transaction Amount: 44M  
