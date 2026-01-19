@@ -8,8 +8,6 @@ This project analyzes credit card transaction data to understand revenue perform
 -<a href="https://github.com/mnh8055/Credit-Card-Transaction-Analysis-Dashboard/blob/main/customer.csv">Dataset 1</a></n>
 
 
-### Dashboard Interaction
-<a href=("https://github.com/mnh8055/Credit-Card-Customer-Analysis-Dashboard/blob/main/Credit%20Card%20Customer%20Analysis%20Dashboard.PNG")">View Dashboard</a></n>
 
 ## Questions (KPIs)
 
