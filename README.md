@@ -43,4 +43,4 @@ This dashboard provides a detailed view of credit card transaction performance a
 - GitHub  
 
 ## Dashboard Preview
-![Credit Card Transaction Dashboard](https://github.com/mnh8055/Credit-Card-Customer-Analysis-Dashboard/blob/main/Credit%20Card%20Transaction%20Report.PNG)
+![Credit Card Transaction Dashboard](https://github.com/mnh8055/Credit-Card-Transaction-Analysis-Dashboard/blob/main/Credit%20Card%20Transaction%20Analysis%20Dashboard.PNG)
